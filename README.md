@@ -1,4 +1,4 @@
-# Math Magicians
+# To-Do App
 
 This project is a build of a To-Do application <br>
 that serves as a log for planned activities for users.
